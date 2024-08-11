@@ -8,13 +8,14 @@
   <a href="https:https://github.com/hrushikeshdube">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,firebase,github,git,postman,reactnative)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,firebase,github,git,reactnative)](https://skillicons.dev)
 
 
 

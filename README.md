@@ -1,5 +1,5 @@
 <!-- Add this banner image at the top -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6id9XBOCWvg_BY2A-glB5mBH4iJzTFmmyWg&usqp=CAU" alt="Banner Image" width="100%" />
+<img https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Banner Image" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Hrushikesh Dube</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>

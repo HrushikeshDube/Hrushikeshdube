@@ -1,3 +1,4 @@
+ <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Banner Image" width="100%" />
 <h1 align="center">Hi 👋, I'm Hrushikesh Dube</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -5,8 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://hrushikeshdube.github.io/Personal-Portfolio-Website/](https://hrushikeshdube.github.io/Personal-Portfolio-Website/)
 
-- 📫 How to reach me **hrushi8303@gmail.com**
-- <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Banner Image" width="100%" />
+- 📫 How to reach me **hrushi8303@gmail.com** 
+-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

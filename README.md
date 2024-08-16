@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://hrushikeshdube.github.io/Personal-Portfolio-Website/](https://hrushikeshdube.github.io/Personal-Portfolio-Website/)
 
 - 📫 How to reach me **hrushi8303@gmail.com**
+- <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Banner Image" width="100%" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrushikeshdube&label=Profile%20views&color=0e75b6&style=flat" alt="hrushikeshdube" /> </p>
 
-- 👨‍💻 All of my projects are available at ([ http://localhost:5174/HrushiDhttps://hrushikeshdube.github.io/HrushiD/]([HrushikeshDube/Hrushikesh](https://hrushikeshdube.github.io/HrushiD/)))]
+- 👨‍💻 All of my projects are available at ([https://hrushikeshdube.github.io/HrushiD/](https://hrushikeshdube.github.io/HrushiD/)))]
 
 - 📫 How to reach me **hrushi8303@gmail.com** 
 -<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

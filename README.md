@@ -21,3 +21,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushikeshdube&show_icons=true&locale=en&layout=compact" alt="hrushikeshdube" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrushikeshdube&show_icons=true&locale=en" alt="hrushikeshdube" /></p>
+## LeetCode Heatmap
+<a href="https://leetcode.com/hrushidube/">
+  <img src="https://leetcard.jacoblin.cool/hrushidube?theme=dark&ext=heatmap" alt="LeetCode Heatmap">
+</a>
+
